@@ -12,3 +12,10 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 
 - [LinkedIn](https://www.linkedin.com/in/juan-felipe-garcia-quintana-5172a1126)
 
+## Skills:
+
+![android]()
+![apple]()
+![node]()
+![javaScript]()
+![MongoDB]()
