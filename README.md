@@ -12,7 +12,7 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-garcia-quintana-5172a1126)
 
-## Skills:
+## My Skills:
 
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black>)
 ![apple](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
