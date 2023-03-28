@@ -14,8 +14,8 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 
 ## Skills:
 
-![android]()
-![apple]()
-![node]()
-![javaScript]()
-![MongoDB]()
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white>)
+![apple](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![javaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
