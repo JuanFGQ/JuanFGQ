@@ -22,6 +22,12 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+## Projects
+
+- :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
+- :left_speech_bubble: [Real-Time Chat: in process]
+
+
 ## Skills Graph:
 ![Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFGQ&theme=blue-green)
 
