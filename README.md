@@ -26,7 +26,7 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 
 - :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
 - :left_speech_bubble: [Real-Time Chat](https://github.com/JuanFGQ/Real-Time-Chat.git)
-- :newspaper:[News-App](https://github.com/JuanFGQ/news_app.git)
+- :newspaper: [News-App](https://github.com/JuanFGQ/news_app.git)
 
 
 ## Skills Graph:
