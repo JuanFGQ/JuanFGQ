@@ -24,6 +24,8 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![SOLID](https://img.shields.io/badge/Solid-2C4F7C.svg?style=for-the-badge&logo=Solid&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 
 
