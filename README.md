@@ -6,7 +6,7 @@
   
 I have developed  projects that made me grow in experience ,knowledge and my passion for solving problems and programming challenges... I would like to participate in projects that allow me to increase my skills .
 
-- 🔭 I’m currently working on a side project of social network.
+- 🔭 I’m currently working on weather app for deploy on store
 
 ## Where to find me:
 
