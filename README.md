@@ -11,6 +11,7 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 ## Where to find me:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-garcia-quintana-5172a1126)
+- [![Email](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](juanfelipegq@outlook.es)
 
 ## My Skills:
 
