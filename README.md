@@ -2,16 +2,13 @@
   
 ![WhatsApp Image 2023-03-27 at 14 52 14](https://user-images.githubusercontent.com/97085649/228051512-29263cef-d368-43c9-ae78-f2256a32035f.jpeg)
 
+* ***:point_right: I have 27 years old, actually Living in Madrid,Spain.***
+* ***:dart: I specialize in multiplatform with FlUTTER.along with other technologies that allow me to develop its backend***
+* ***:mailbox_with_mail: Email : juanfelipegq@outlook.es***
 
-  
-I have developed  projects that made me grow in experience ,knowledge and my passion for solving problems and programming challenges... I would like to participate in projects that allow me to increase my skills .
-
-- 🔭 I’m currently working on weather app for deploy on store
-
-## Where to find me:
+## Also in:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-garcia-quintana-5172a1126/)
-- ![Email](https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)  ***juanfelipegq@outlook.es***
 
 ## My Skills:
 
@@ -33,7 +30,7 @@ I have developed  projects that made me grow in experience ,knowledge and my pas
 
 
 ## Projects
-
+- :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
 - :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
 - :left_speech_bubble: [Real-Time Chat](https://github.com/JuanFGQ/Real-Time-Chat.git)
 - :newspaper: [News-App](https://github.com/JuanFGQ/news_app.git)
