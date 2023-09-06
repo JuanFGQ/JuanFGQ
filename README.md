@@ -3,6 +3,7 @@
 ![WhatsApp Image 2023-03-27 at 14 52 14](https://user-images.githubusercontent.com/97085649/228051512-29263cef-d368-43c9-ae78-f2256a32035f.jpeg)
 
 * ***:point_right: I have 27 years old, actually Living in Madrid,Spain.***
+* ***:speaker:Basic conversational english, and spanish as my native language***
 * ***:dart: I specialize in multiplatform with FlUTTER.along with other technologies that allow me to develop its backend***
 * ***:mailbox_with_mail: Email : juanfelipegq@outlook.es***
 
