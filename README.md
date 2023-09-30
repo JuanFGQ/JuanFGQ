@@ -30,11 +30,16 @@
 
 
 
-## Projects
-- :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
-- :left_speech_bubble: [Real-Time Chat](https://github.com/JuanFGQ/Real-Time-Chat.git)
-- :newspaper: [News-App](https://github.com/JuanFGQ/news_app.git)
-- :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
+## Projects 
+## :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
+  *  State Managment: Provider.
+  *  Perfomance Improvements with DevTools.
+  *  SqfLite database for store places and news.
+  *  Language support :  english and spanish.
+  *  Api´s integration
+## :left_speech_bubble: [Real-Time Chat](https://github.com/JuanFGQ/Real-Time-Chat.git)
+## :newspaper: [News-App](https://github.com/JuanFGQ/news_app.git)
+## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
 
 
 ## Skills Graph:
