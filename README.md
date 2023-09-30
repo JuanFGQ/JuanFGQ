@@ -38,9 +38,23 @@
   *  Language support :  english and spanish.
   *  Api´s integration
 ## :left_speech_bubble: [Real-Time Chat](https://github.com/JuanFGQ/Real-Time-Chat.git)
+  * RealTime communication with WebSockets
+  * State Managment: Provider.
+  * User Login and Register.
+  * BackEnd development with:
+      *  Mongo DB
+      *  Node.js
+  * Released on Railway.com
 ## :newspaper: [News-App](https://github.com/JuanFGQ/news_app.git)
+  *  State Managment: Provider.
+  *  API´s integration.
+  *  Choose between news categories.
 ## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
-
+  * State Managment: BloC & provider.
+      * 1st branch : Provider
+      * 2nd branch : BloC & Clean Architecture
+  * API´s Integration
+  * Infinite Scroll of api results
 
 ## Skills Graph:
 ![Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFGQ&theme=blue-green)
