@@ -31,6 +31,12 @@
 
 
 ## Projects 
+## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
+  * State Managment: BloC & provider.
+      * 1st branch : Provider
+      * 2nd branch : BloC & Clean Architecture
+  * API´s Integration
+  * Infinite Scroll of api results
 ## :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
   *  State Managment: Provider.
   *  Perfomance Improvements with DevTools.
@@ -49,12 +55,7 @@
   *  State Managment: Provider.
   *  API´s integration.
   *  Choose between news categories.
-## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
-  * State Managment: BloC & provider.
-      * 1st branch : Provider
-      * 2nd branch : BloC & Clean Architecture
-  * API´s Integration
-  * Infinite Scroll of api results
+
 
 ## Skills Graph:
 ![Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFGQ&theme=blue-green)
