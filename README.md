@@ -36,6 +36,11 @@
 
 
 ## Projects 
+
+## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
+  * widgets reuse
+  * responsive design it can works in all devices 
+
 ## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
   * State Managment: BloC & provider.
       * 1st branch : Provider
