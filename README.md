@@ -36,6 +36,10 @@
 
 
 ## Projects 
+## :shopping: [E-commerce app](https://github.com/JuanFGQ/e_comerce_app)
+  * Getx state management.
+  * MVC(model-view-controller) architecture.
+  * Firebase-Firestorage-messaging-authentication 
 
 ## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
   * widgets reuse
