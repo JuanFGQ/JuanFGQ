@@ -39,7 +39,8 @@
 ## :shopping: [E-commerce app](https://github.com/JuanFGQ/e_comerce_app)
   * Getx state management.
   * MVC(model-view-controller) architecture.
-  * Firebase-Firestorage-messaging-authentication 
+  * Firebase-Firestorage-messaging-authentication.
+  * CRUD operations.
 
 ## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
   * widgets reuse
