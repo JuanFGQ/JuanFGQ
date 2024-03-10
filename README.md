@@ -41,6 +41,10 @@
   * MVC(model-view-controller) architecture.
   * Firebase-Firestorage-messaging-authentication.
   * CRUD operations.
+  * Local data management
+  * Onboarding Screen
+  * Splash Screen
+  * Theme handling by phone settings
 
 ## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
   * widgets reuse
@@ -51,7 +55,8 @@
       * 1st branch : Provider
       * 2nd branch : BloC & Clean Architecture
   * API´s Integration
-  * Infinite Scroll of api results
+  * Infinite Scroll(pagination) of api results
+    
 ## :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
   *  State Managment: Provider.
   *  Perfomance Improvements with DevTools.
