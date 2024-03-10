@@ -38,7 +38,7 @@
 ## Projects 
 ## :shopping: [E-commerce app](https://github.com/JuanFGQ/e_comerce_app)
   * Getx state management.
-  * MVC(model-view-controller) architecture.
+  * MVC(model-view-controller) Design pattern.
   * Firebase-Firestorage-messaging-authentication.
   * CRUD operations.
   * Local data management
