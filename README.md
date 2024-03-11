@@ -3,7 +3,8 @@
 ![WhatsApp Image 2023-03-27 at 14 52 14](https://user-images.githubusercontent.com/97085649/228051512-29263cef-d368-43c9-ae78-f2256a32035f.jpeg)
 
 * ***:point_right: I have 27 years old, actually Living in Madrid,Spain.***
-* ***:speaker:Basic conversational english, and spanish as my native language***
+* ***:speaker:conversational english skills, and spanish as my native language***
+* ***🌠 
 * ***:dart: I specialize in multiplatform with FlUTTER.along with other technologies that allow me to develop its backend***
 * ***:mailbox_with_mail: Email : juanfelipegq@outlook.es***
 
@@ -46,9 +47,14 @@
   * Splash Screen
   * Theme handling by phone settings
 
+## 🏚️ [SmartHome (on constantly updating](https://github.com/JuanFGQ/smart_home_design)
+  * This project is focused on the controll of different comercial automation devices.
+  * As well as automation prototypes created with arduiono UI
+  * this project will be constantly updated
+
 ## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
   * widgets reuse
-  * responsive design it can works in all devices 
+  * responsive design it can works in all devicessa
 
 ## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
   * State Managment: BloC & provider.
