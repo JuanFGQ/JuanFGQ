@@ -4,7 +4,7 @@
 
 * ***:point_right: I have 27 years old, actually Living in Madrid,Spain.***
 * ***:speaker:conversational english skills, and spanish as my native language***
-* ***🌠 
+* ***:sparkles: All necessary soft skills for a perfect integration with teams and customer attention.***
 * ***:dart: I specialize in multiplatform with FlUTTER.along with other technologies that allow me to develop its backend***
 * ***:mailbox_with_mail: Email : juanfelipegq@outlook.es***
 
@@ -47,28 +47,31 @@
   * Splash Screen
   * Theme handling by phone settings
 
-## 🏚️ [SmartHome (on constantly updating](https://github.com/JuanFGQ/smart_home_design)
-  * This project is focused on the controll of different comercial automation devices.
-  * As well as automation prototypes created with arduiono UI
-  * this project will be constantly updated
-
-## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
-  * widgets reuse
-  * responsive design it can works in all devicessa
-
-## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
-  * State Managment: BloC & provider.
-      * 1st branch : Provider
-      * 2nd branch : BloC & Clean Architecture
-  * API´s Integration
-  * Infinite Scroll(pagination) of api results
-    
-## :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
+    ## :sunny: [weather-app: weather and news by location](https://github.com/JuanFGQ/weather_app)
   *  State Managment: Provider.
   *  Perfomance Improvements with DevTools.
   *  SqfLite database for store places and news.
   *  Language support :  english and spanish.
   *  Api´s integration
+
+     ## :movie_camera: [movies-app: movies visualizer](https://github.com/JuanFGQ/movies-App.git)
+  * State Managment: BloC & provider.
+      * 1st branch : Provider
+      * 2nd branch : BloC & Clean Architecture
+  * API´s Integration
+  * Infinite Scroll(pagination) of api results
+
+## 🏚️ [SmartHome (on constantly updating)](https://github.com/JuanFGQ/smart_home_design)
+  * This project is focused on the controll of different comercial automation devices.
+  * As well as automation prototypes created with arduiono UI
+  * this project will be constantly updated
+
+
+## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
+  * widgets reuse
+  * responsive design it can works in all devices
+    
+
 ## :left_speech_bubble: [Real-Time Chat](https://github.com/JuanFGQ/Real-Time-Chat.git)
   * RealTime communication with WebSockets
   * State Managment: Provider.
