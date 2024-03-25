@@ -64,7 +64,7 @@
 
 ## 🏚️ [SmartHome (on constantly updating)](https://github.com/JuanFGQ/smart_home_design)
   * This project is focused on the controll of different comercial automation devices.
-  * As well as automation prototypes created with arduiono UI
+  * As well as automation prototypes created with arduino 
   * this project will be constantly updated
 
 
