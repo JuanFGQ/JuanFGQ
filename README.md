@@ -65,7 +65,7 @@
 ## 🏚️ [SmartHome (on constantly updating)](https://github.com/JuanFGQ/smart_home_design)
   * This project is focused on the controll of different comercial automation devices.
   * As well as automation prototypes created with arduino 
-  * this project will be constantly updated
+  * this project will be on constantly update
 
 
 ## :bulb: [LinkedIn Clon Responsive Design](https://github.com/JuanFGQ/linkedin_responsive_clon/tree/master)
