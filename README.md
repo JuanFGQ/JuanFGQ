@@ -6,16 +6,7 @@
 * ***:speaker:conversational english skills, and spanish as my native language***
 * ***:sparkles: All necessary soft skills for a perfect integration with teams and customer attention.***
 * ***:dart: I specialize in multiplatform with FlUTTER.along with other technologies that allow me to develop its backend***
-* ***:iphone: Knowledge of native development with Kotlin***
-
-
-## Also in:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-garcia-quintana-5172a1126/)
-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mobilexdev)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@JuanFGQ)
-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mobilexdev)
-  
+* ***:iphone: Knowledge of native development with Kotlin***  
 
 ## My Skills:
 
