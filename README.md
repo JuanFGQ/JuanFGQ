@@ -7,7 +7,7 @@
 * ***:sparkles: All necessary soft skills for a perfect integration with teams and customer attention.***
 * ***:dart: I specialize in multiplatform with FlUTTER.along with other technologies that allow me to develop its backend***
 * ***:iphone: Knowledge of native development with Kotlin***
-* ***:mailbox_with_mail: Email : juanfelipegq@outlook.es***
+
 
 ## Also in:
 
